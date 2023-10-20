@@ -25,6 +25,8 @@ The primary objective is to establish an advanced predictive model - "ChurnShiel
 
 
 Data Exploration
+
+
 In the context of the SyriaTel customer retention project, the dataset comprises a diverse range of features that offer valuable insights into customer behavior and its impact on churn. These features encompass geographic identifiers like state and area code, historical account duration, communication preferences, including voicemail usage, and patterns of activity during different times of the day (e.g., day and evening usage minutes, call frequency, and associated charges). Additionally, it incorporates data on international and nighttime usage patterns, customer service interactions, and the critical 'Churn' variable, representing customer disengagement.
 
 SyriaTel's objective in scrutinizing this dataset is to unearth predictive insights that empower them to proactively address churn, thereby improving customer retention. Ultimately, this strategic effort will bolster their position within the competitive telecommunications industry.
