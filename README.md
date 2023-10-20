@@ -2,6 +2,9 @@
 
 PROJECT OVERVIEW
 
+SyriaTel, a prominent player in the telecommunications industry, has initiated a strategic program to combat customer loss. This initiative's primary aim is to unravel the intricate factors contributing to customer attrition and foresee which clients might discontinue their services. Armed with a vast reservoir of client information, spanning from demographic insights and subscription particulars to consumption trends and customer support interactions, SyriaTel is embarking on a quest for predictive revelations. The ultimate aspiration is to enable SyriaTel to proactively engage with and retain customers at risk of churning, while simultaneously refining their service offerings. The overarching result will be a reduction in revenue erosion and an elevation in overall customer contentment.
+
+
 
  "ChurnShield: A Customer Churn Prediction System for SyriaTel Telecommunications"
 
