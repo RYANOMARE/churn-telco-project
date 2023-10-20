@@ -53,3 +53,28 @@ Model Integration: Integrating the predictive model seamlessly into SyriaTel's e
 Retention Strategies: Designing personalized strategies, including special offers, discounts, or enhanced customer support, to retain identified at-risk customers.
 
 Monitoring and Evaluation: Continuously tracking the model's performance and the effectiveness of retention strategies, making necessary adjustments.
+
+
+
+
+Conclusion
+
+
+Recomendations
+
+
+Limitations
+
+
+Folder Structure
+
+|- ipynb_checkpoints
+
+|- Data
+
+ |-Telecom.csv
+|- LICENSE
+
+|- README.md
+
+|- index.ipynb
