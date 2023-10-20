@@ -1,5 +1,5 @@
 # churn-telco-project
-"ChurnShield: A Customer Churn Prediction System for SyriaTel Telecommunications"
+CHURNSHIELD: A CUSTOMER CHURN PREDICTION SYSTEM FOR SYRIATEL TELECOMMUNICATIONS
 
 
 PROJECT OVERVIEW
