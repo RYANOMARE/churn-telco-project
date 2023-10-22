@@ -61,11 +61,30 @@ Monitoring and Evaluation: Continuously tracking the model's performance and the
 
 Conclusion
 
+our comprehensive examination of Syria Tel's customer dataset has provided us with valuable findings regarding customer churn and its underlying determinants. To achieve the primary business goals of minimizing churn and improving customer loyalty, we have presented crucial recommendations and actionable strategies.
 
 Recomendations
 
 
+To begin, enhancing the quality of customer service should be the top priority. Our analysis highlights a clear association between an increased number of customer service calls and higher churn rates. By addressing service-related issues and ensuring top-tier customer satisfaction, Syria Tel can notably reduce churn.
+
+Additionally, pricing strategy optimization is of utmost importance. Our data demonstrates a direct correlation between higher total charges and an elevated likelihood of customer churn. Syria Tel should strive to strike a pricing balance that retains customers while maintaining profitability.
+
+The matter of network quality, especially during peak daytime hours, cannot be underestimated. A strong positive link between churn and "total day minutes" indicates network connectivity concerns. Resolving these issues, such as call dropouts and improved call quality, will lead to better service and decreased churn.
+
+Incorporating the XGBoost model into the decision-making process is a wise move. This machine learning tool can effectively identify customers at risk of churning and empower Syria Tel to implement tailored retention strategies. Continuous monitoring and refining of the model will play a pivotal role in achieving the overarching goals of reducing churn and improving customer retention.
+
 Limitations
+
+Data Limitations: The findings and recommendations are based on the available dataset. If the dataset is not comprehensive or representative of the entire customer base, the conclusions may not be universally applicable.
+
+Assumptions: The analysis relies on certain assumptions, such as the causality between variables. These assumptions may not always hold true in real-world scenarios.
+
+Data Quality: The quality of the data is crucial. Inaccurate or incomplete data can lead to misleading conclusions and recommendations.
+
+External Factors: The analysis does not account for external factors that may influence customer churn, such as economic conditions, competitors' actions, or regulatory changes.
+
+Modeling Limitations: The machine learning model used has its limitations. It assumes that historical patterns will continue, which may not always be the case.
 
 
 Folder Structure
@@ -73,6 +92,7 @@ Folder Structure
 |- ipynb_checkpoints
 
 |- Data
+https://github.com/RYANOMARE/churn-telco-project.git
 
  |-Telecom.csv
 |- LICENSE
@@ -80,3 +100,4 @@ Folder Structure
 |- README.md
 
 |- index.ipynb
+https://github.com/RYANOMARE/churn-telco-project.git
