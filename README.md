@@ -1,4 +1,6 @@
 # churn-telco-project
+![image](https://github.com/RYANOMARE/churn-telco-project/assets/133141460/0b685741-16f9-41ac-87f1-40e28f4560c6)
+
 CHURNSHIELD: A CUSTOMER CHURN PREDICTION SYSTEM FOR SYRIATEL TELECOMMUNICATIONS
 
 
